@@ -1,0 +1,7 @@
+Binary Search Tree-
+
+1. A Binary Tree is a BST if all node in Left Sub Tree (less)  < Root > All nodes in right subtree (greater)
+2. Inorder in BST is always sorted
+
+
+
