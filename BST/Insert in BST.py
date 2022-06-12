@@ -1,6 +1,6 @@
 """
-Idea is tto find a place where k can fit in
-since its BST wee need to search a place where lst is smaller than k and rst is greater than the k
+Idea is to find a place where k can fit in
+since its BST we need to search a place where lst is smaller than k and rst is greater than the k
 """
 
 
